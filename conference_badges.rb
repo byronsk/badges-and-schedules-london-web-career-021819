@@ -20,3 +20,5 @@ end
 list
 end
 
+def printer(attendees)
+  
