@@ -26,3 +26,4 @@ def printer(attendees)
   assign_rooms(attendees).each do |name|
     puts name
   end
+end
